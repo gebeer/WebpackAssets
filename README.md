@@ -6,9 +6,9 @@ This module provides some static methods to include CSS and JS Assets with webpa
 ## Installation
 manually: like any other module, download and place folder `WebpackAssets` inside `/site/modules' and the install from backend
 
-via git: inside `/site/modules`: `git clone xxx`
+via git: inside `/site/modules`: `git clone https://github.com/gebeer/WebpackAssets.git`
 
-via git as submodule: inside `/site/modules`: `git submodule add xxx`
+via git as submodule: inside `/site/modules`: `git submodule add https://github.com/gebeer/WebpackAssets.git`
 
 ## Configuration
 In module settings add the path to your `webpack.manifest.json` file
